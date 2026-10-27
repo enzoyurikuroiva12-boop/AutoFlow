@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.autoflow-build/
+.data/
+.env
+.env.*
+!.env.example
+*.log
